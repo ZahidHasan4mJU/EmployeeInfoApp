@@ -1,0 +1,9 @@
+c:\users\zahid_ju\documents\visual studio 2012\Projects\EmployeeInformaion\EmployeeInformaion\bin\Debug\EmployeeInformaion.exe.config
+c:\users\zahid_ju\documents\visual studio 2012\Projects\EmployeeInformaion\EmployeeInformaion\bin\Debug\EmployeeInformaion.exe
+c:\users\zahid_ju\documents\visual studio 2012\Projects\EmployeeInformaion\EmployeeInformaion\bin\Debug\EmployeeInformaion.pdb
+c:\users\zahid_ju\documents\visual studio 2012\Projects\EmployeeInformaion\EmployeeInformaion\obj\Debug\EmployeeInformaion.csprojResolveAssemblyReference.cache
+c:\users\zahid_ju\documents\visual studio 2012\Projects\EmployeeInformaion\EmployeeInformaion\obj\Debug\EmployeeInformaion.Form1.resources
+c:\users\zahid_ju\documents\visual studio 2012\Projects\EmployeeInformaion\EmployeeInformaion\obj\Debug\EmployeeInformaion.Properties.Resources.resources
+c:\users\zahid_ju\documents\visual studio 2012\Projects\EmployeeInformaion\EmployeeInformaion\obj\Debug\EmployeeInformaion.csproj.GenerateResource.Cache
+c:\users\zahid_ju\documents\visual studio 2012\Projects\EmployeeInformaion\EmployeeInformaion\obj\Debug\EmployeeInformaion.exe
+c:\users\zahid_ju\documents\visual studio 2012\Projects\EmployeeInformaion\EmployeeInformaion\obj\Debug\EmployeeInformaion.pdb
